@@ -11,4 +11,6 @@ Nous séjournions au camping de la base de loisirs à 200m de l'atterrissage. Ch
  
 Le groupe est très reconnaissant envers les partenaires qui ont contribué à la réussite de ce séjour: La FFVL, la ligue PIDF de Vol Libre, le CDVL91, le conseil départemental de l'Essonne, le club Globe trot'air et Ressource Parappente d'Orcières.
 
- <iframe src="https://drive.google.com/file/d/1EwoWzQbIWD8KVbRQXVWwafBwKdmtxfve/preview" width="640" height="480" allow="autoplay"></iframe>
+<div class="ratio ratio-1x1" style="max-height: 720px;">
+  <iframe src="https://drive.google.com/file/d/1EwoWzQbIWD8KVbRQXVWwafBwKdmtxfve/preview" width="640" height="480" allow="autoplay"></iframe>
+</div>
