@@ -42,6 +42,6 @@ développement durable dans ses politiques, les règlements et les modes de gest
 l’accomplissement des activités fédérales et l’organisation des manifestations sportives.
 
 # Le comité directeur : 
-(Suite à l'élection du nouveau Comité Directeur le 19 Mars 2025, cette page sera prochainement mise à jour)
+#### /!\ (Suite à l'élection du nouveau Comité Directeur le 19 Mars 2025, cette page sera prochainement mise à jour) /!\
 
 {% include comite.html %}
