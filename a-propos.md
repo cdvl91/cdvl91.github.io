@@ -44,4 +44,5 @@ l’accomplissement des activités fédérales et l’organisation des manifesta
 # Le comité directeur : 
 #### /!\ (Suite à l'élection du nouveau Comité Directeur le 19 Mars 2025, cette page sera prochainement mise à jour) /!\
 
+
 {% include comite.html %}
