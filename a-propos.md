@@ -41,6 +41,7 @@ Le CVDL91 veille au respect de ces principes par ses membres ainsi qu’au respe
 développement durable dans ses politiques, les règlements et les modes de gestion qui régissent son fonctionnement,
 l’accomplissement des activités fédérales et l’organisation des manifestations sportives.
 
-# Le comité directeur : (Suite à l'élection du nouveau Comité Directeur le 19 Mars 2025, cette page sera prochainement mise à jour)
+# Le comité directeur : 
+(Suite à l'élection du nouveau Comité Directeur le 19 Mars 2025, cette page sera prochainement mise à jour)
 
 {% include comite.html %}
