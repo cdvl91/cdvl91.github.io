@@ -1,51 +1,47 @@
-- name: Florence De Raucourt
-  club: Les Migrateurs
-  role: Présidente
+- name: Nicolas MORAND
+  club: Les Piafs
+  role: Président
 
-- name: Alain Bayle
-  club: ASCEA
+- name: Alain ROBIN
+  club: COSRL
   role: Vice-Président
 
-- name: Didier Domergue
+- name: Didier DOMERGUE
   club: Les Migrateurs
   role: Secrétaire
 
-- name: Nathalie Schmitt
+- name: Sébastien NOZIÈRES
   club: Les Migrateurs
   role: Vice-Secrétaire
 
-- name: Hugues Mauras
+- name: Christine NARP
+  club: Les Migrateurs
+  role: Trésorière
+
+- name: Luis DE-CARVALHO 
   club: "Globe Trot'Air"
-  role: Trésorier
-
-- name: Christine Narp
-  club: Les Migrateurs
-  role: Vice-Trésorière
-
-- name: Nathalie Verdier
-  club: Les Migrateurs
-  role: Commission Féminine
-
-- name: Brigitte Jaegle
-  club: Les Piafs
-  role: Commission Féminine
-
-- name: Alain Robin
-  club: COSRL
   role: Commission Sites
 
-- name: Ralph Rodriguez
-  club: Les Piafs
-  role: Commission compétition
-
-- name: Amina Abdeljalil
-  club: "Globe Trot'Air"
+- name: Sophie SUZANNE
+  club: AS LYCEE ROSA-PARKS
   role: Commission Jeunes
 
-- name: Sylvain Pigeon
+- name: Thierry COURET
   club: Les Migrateurs
-  role: Commission Marche-et-Vol
+  role: Commission Formation
+  
+- name: Ludovic COUTURAUD
+  club: Les Piafs
+  role: Sortie accompagnée et interclub
+  
+- name: Benjamin COCHET
+  club: Les Piafs
+  role: Animateur sécurité
 
-- name: Jonathan Bayle
-  club: ASCEA
+- name: Jérémie HARDY
+  club: Les Migrateurs
+  role: Interclub Marche-et-Vol
+
+- name: Frédéric B.
+  club: Les Piafs (& "Globe Trot'Air")
   role: Communication - Site internet
