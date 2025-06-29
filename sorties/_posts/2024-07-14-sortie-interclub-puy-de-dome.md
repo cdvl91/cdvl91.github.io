@@ -9,4 +9,7 @@ thumbnail: sorties/interclub2024_tn.jpg
 ## Sortie interclubs au Puy-de-Dôme (14 Juillet 2024)
 
 Nous étions 11 gars pour cette sortie interclub du CDVL 91 au Puy-de-Dôme le week-end du 14 Juillet.
+
 Les arrivées se sont étalées de Vendredi aprés midi à Vendredi soir (trés tard) à notre camp de base à "Espace Volcan"
+
+(A suivre...)
