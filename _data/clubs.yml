@@ -1,6 +1,3 @@
-- name: AS Sapeurs-Pompiers
-  president: Lionel ONOFRI
-
 - name: Les Piafs-MJC
   president: Ludovic COUTURAUD
   website:
@@ -13,12 +10,6 @@
     url: http://www.lespiafsmigrateurs.fr/
     title: 'Site du club école "Les Migrateurs"'
 
-- name: PSUC
-  president: Thierry JEAN-BAPTISTE
-  website:
-    url: https://sites.google.com/site/cluddedeltaplane/
-    title: Site PSUC vol libre
-
 - name: AS Lycée Rosa Park Montgeron
   president: Sophie SUZANNE
 
@@ -28,11 +19,11 @@
     url: https://globetrotair91.jimdofree.com
     title: "Site du club Globe Trot'air"
 
-- name: VLCES
-  president: Philippe LABAILS
-
-- name: COSRL
+- name: ESRG (Ex-COSRL)
   president: Alain ROBIN
 
-- name: Les Ailes à Vent
-  president: Bertrand GOURCY
+- name: Vol Libre des coteaux de l'essonne
+  president: Philippe LABAILS
+  
+- name: P.S.U.C. Orsay
+  president: Thierry JEAN-BAPTISTE
