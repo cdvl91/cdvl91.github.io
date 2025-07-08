@@ -16,3 +16,6 @@ Les arrivées se sont étalées de Vendredi après-midi à Vendredi soir (trés 
 
 [![]({{ site.static }}/sorties/2024-07-14__19.17.07_a42b7194.jpg)]({{ site.static }}/sorties/2024-07-14__19.17.07_a42b7194.jpg)
 
+
+![]({{ site.static }}/sorties/VideoCLECY2025-06-27_18.32.49.mp4)
+
