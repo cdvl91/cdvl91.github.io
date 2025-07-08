@@ -6,7 +6,9 @@ author: Frederic B.
 thumbnail: sorties/2024-07-14__19.17.07_a42b7194.jpg
 ---
 
+
 ## Sortie interclubs au Puy-de-Dôme (14 Juillet 2024)
+
 
 Alain BAYLE a eu le plaisir d'organiser cette sortie interclub du CDVL91.
 11 pilotes au total ont répondu présent.
