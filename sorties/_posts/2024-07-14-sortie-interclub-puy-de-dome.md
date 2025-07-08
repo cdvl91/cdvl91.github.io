@@ -17,10 +17,4 @@ Les arrivées se sont étalées de Vendredi après-midi à Vendredi soir (trés 
 [![]({{ site.static }}/sorties/2024-07-14__19.17.07_a42b7194.jpg)]({{ site.static }}/sorties/2024-07-14__19.17.07_a42b7194.jpg)
 
 
-<div class="ratio ratio-16x9">
-  <video controls>
-    <source src="{{ site.static }}/sorties/VideoCLECY2025-06-27_18.32.49.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
 
