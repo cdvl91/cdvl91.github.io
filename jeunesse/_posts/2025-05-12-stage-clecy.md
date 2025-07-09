@@ -6,6 +6,7 @@ author: Sophie SUZANNE
 ---
 
 
+
 Du 12 au 16 mai 2025, 8 élèves du lycée Rosa Parks de Montgeron ainsi que 9 élèves du lycée Robert Doisneau de Corbeil-Essonnes ont eu la chance de réaliser leur premier grand vol en parapente. 
 
 Dès leur arrivée au gîte de Clécy dans le Calvados, le moniteur local Sami les attendait pour commencer les premiers gonflages sur pente douce afin d’évaluer leur niveau de départ. Les 10 jeunes filles et les 7 jeunes garçons montrent déjà une certaine expertise notamment dans la façon de s’équiper en toute sécurité et de gonfler la voile au-dessus de la tête. Le stage s’annonce bien ! 
@@ -48,6 +49,7 @@ Ines
 Pendant cinq jours on a fait le plus de parapente possible ! Les premiers jours de gonflage étaient superbes. J’ai beaucoup appris grâce aux moniteurs et même les erreurs que j’ai pu faire m’ont beaucoup aidées. Lorsqu’ on est partis à Omaha Beach, je stressais énormément. On nous avait raconté qu’on allait faire notre premier grand vol à plus de 50 mètres de haut alors qu’on avait fait 3-4 séances de gonflage. Mais en dehors du stress, je ressens de l’envie, l’envie de voler, de voir le paysage, d’être suspendue à la voile, d’atterrir et d’être fière de moi et de cet envol ! Parce que le premier vol je m’en souviendrais pour toujours. La sensation d’être en l’air et puis de profiter quand on s’installe dans la sellette. En réalité c’est allé très vite et je suis déçue de pas avoir pu faire un deuxième vol mais c’est comme ça et c’est ce qui me donne envie d’aller de l’avant dans le parapente. C’est une expérience unique, j’ai été chanceuse de pouvoir la faire. Je suis reconnaissante des efforts de chaque association, fédération, professeur, moniteur, bénévole qui ont permis cette expérience. Sami, Françoise, Pascal, Éric, Sophie, Angélique, merci à vous pour votre aide et d’avoir permis à ce qu’on puisse passer des supers moments de parapente, un premier vol merveilleux et de rencontrer de nouvelles personnes avec qui on a passé de bons moments à rigoler. Encore merci.
 Liv
 
+
 Cette semaine j'ai participé à une semaine de parapente avec mon lycée et celui de Corbeil pour avoir la chance de faire notre premier grand vol seule en parapente ! Et nous l'avons fait !!
 Mercredi après-midi nous sommes allés à Vierville-sur-Mer et nous avons préparé nos parapentes.
 Je suis passée dans les derniers donc j'ai vu tous les autres passages. J'ai trouvé ça super que tout le monde s'encourage et réussisse ! 
@@ -57,3 +59,11 @@ Encore un énorme merci à tous les accompagnateurs qui ont été là pour nous 
 Françoise, Pascal et Éric merci de nous avoir transmis votre passion ! Vous nous avez appris le parapente avec tellement de bienveillance ! Vous avez réussi !! Maintenant je veux pouvoir voler et ressentir toute ces sensations que j'ai eu dans les airs plus souvent et pouvoir continuer de m’entraîner !
 Jeanne
 
+
+
+<div class="ratio ratio-16x9">
+  <video controls>
+    <source src="{{ site.static }}/jeunesse/VideoCLECY2025-06-27_18.32.49.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
