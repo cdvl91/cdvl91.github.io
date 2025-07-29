@@ -6,8 +6,3 @@ author: Sophie SUZANNE
 ---
 
 Article à suivre...
-
-En attendant, voici la vidéo réalisée par les jeunes : 
-
-{{ site.static }}, La vidéo ![]({{ site.static }}https://1drv.ms/v/c/5fd522795955244c/EV6Otg6GNrVNu6J66MsVajkB9ldOL59DjZX1U44dXDxXHw)
-
