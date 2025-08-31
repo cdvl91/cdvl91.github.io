@@ -56,5 +56,5 @@ Nous remercions aussi les moniteurs présents à Orcieres avec Nicolas et surtou
 Un grand remerciement à toutes les personnes qui nous accompagnent pendant l'année avec qui nous  pouvons  continuer  à  faire  du  gonflage  afin  de  ne  pas  perdre  la  main  et  nous  pensons particulièrement à la monitrice qui fait que cela est possible, Françoise LERIQUE, mais aussi tous les autres  qui  viennent  pour  nous  aider  à  progresser  ainsi  qu'aux  enseignants  d'EPS  (Angélique TRESCARTE, Sophie SUZANNE et Fabrice PEYRAT).  
 
 Nous remercions les accompagnateurs de ce séjour (Céline, Éric et Fabrice).
-Enfin un grand remerciement à Hugues MAURAS qui est dans l'ombre de l'organisation de ce séjour et  qui  même  s'il  n'a  pu  accompagner  cette  année  était  avec  nous  souvent  en  demandant  des nouvelles par messages.  
+Enfin un grand remerciement à Hugues MAURAS qui est dans l'ombre de l'organisation de ce séjour et  qui  même  s'il  n'a  pu  accompagner  cette  année  était  avec  nous  souvent  en  demandant  des nouvelles par message.  
 
