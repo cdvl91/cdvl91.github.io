@@ -61,4 +61,4 @@ Enfin un grand remerciement à Hugues MAURAS qui est dans l'ombre de l'organisat
 ----
 
 
-
+<a href="[La vidéo](https://1drv.ms/v/c/5fd522795955244c/EV6Otg6GNrVNu6J66MsVajkB9ldOL59DjZX1U44dXDxXHw)" target="_blank">Ouvre dans un nouvel onglet</a>
