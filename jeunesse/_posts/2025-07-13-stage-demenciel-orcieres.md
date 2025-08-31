@@ -7,9 +7,13 @@ author: Fabrice LEVOYER
 
 Dates : du 2 juillet au 9 juillet 2025  
 Club : Glob Trot’Air  
+Auteur : Fabrice LEVOYER  
 
+----
+Voir la video du séjour [ici](https://1drv.ms/v/c/5fd522795955244c/EV6Otg6GNrVNu6J66MsVajkB9ldOL59DjZX1U44dXDxXHw)  
 
-**_I. Le voyage, l'organisation et la vie au camp_**
+----
+**I. Le voyage, l'organisation et la vie au camp**
 
   Nous sommes partis le Mercredi 2 Juillet à 8h30 de Montgeron où nous avions récupéré le minibus de location.  
 Il y avait un accompagnateur, Fabrice PEYRAT, et 3 jeunes qui sont partis de Montgeron pour ensuite récupérer 5 autres jeunes, tout le matériel de camping et les parapentes au lycée de Corbeil.  
@@ -24,9 +28,9 @@ La deuxième partie des courses a été faites par une autre accompagnatrice, C�
 Nous sommes repartis du camps le Mercredi 9 Juillet à 10h pour une arrivée à Corbeil aux alentours de 19h où Hugues nous attendait pour nous aider à ranger le matériel.  
 Fabrice a rendu le minibus de location le 10 Juillet au matin.  
 
+----
 
-
-**_II. Le parapente_**
+**II. Le parapente**
 
   **1. La pratique :**
 
@@ -40,24 +44,26 @@ Ensuite  plusieurs  thèmes  ont  été  abordés  notamment  sur  les  composan
 Enfin, un moment marquant fut le témoignage d’un pilote, Yoann COSSEC, qui a participé à plusieurs étapes de coupes du monde et à des grandes finales. Ce pilote a présenté sont parcours atypique pour arriver à ce niveau, puis un moment d'échange à eu lieu avec les jeunes.  
 Ils ont pu poser toutes les questions qu'ils souhaitaient en rapport avec le parapente. Ce fut très inspirant.
 
-  **3. Progression et objectifs :**
-
+  **3. Progression et objectifs :**  
   Les débriefings vidéo et le suivi personnalisé ont permis une réelle progression. Les objectifs principaux étaient d’obtenir le BP théorique et le BPI pour le nouveau. Certains ont validé la partie théorique du BP et du BPI. L’autonomie de nos jeunes pilotes s'est amélioré au fur et à mesure du stage.  
 
-**_III. Ressenti personnel d'une des jeunes (Rebecca KWAMI ZINGA)_**  
+----
+**III. Ressenti personnel d'une des jeunes (Rebecca KWAMI ZINGA)**  
 
-  C’était mon deuxième Démen’Ciel, et j’ai clairement senti une progression par rapport à l’an dernier (pour moi comme pour mes camarades). 
+C’était mon deuxième Démen’Ciel, et j’ai clairement senti une progression par rapport à l’an dernier (pour moi comme pour mes camarades). 
 Ce stage m’a encore plus motivé à continuer dans cette voie. L’ambiance, l’encadrement et l’apprentissage en font un moment fort de mon année.  
 
-**_IV. Remerciements_**
+----
+**IV. Remerciements**  
 
   Nous souhaiterions remercier tous ceux qui ont permis ce stage de parapentes en commençant par le CDVL 91 ainsi que la Ligue PIDF et la FFVL qui nous ont accompagné dans le financement et sans qui notre participation à ce stage n'aurait pas pu se faire.   
 Nous remercions aussi les moniteurs présents à Orcieres avec Nicolas et surtout Michel qui organise ce rassemblement.  
 Un grand remerciement à toutes les personnes qui nous accompagnent pendant l'année avec qui nous  pouvons  continuer  à  faire  du  gonflage  afin  de  ne  pas  perdre  la  main  et  nous  pensons particulièrement à la monitrice qui fait que cela est possible, Françoise LERIQUE, mais aussi tous les autres  qui  viennent  pour  nous  aider  à  progresser  ainsi  qu'aux  enseignants  d'EPS  (Angélique TRESCARTE, Sophie SUZANNE et Fabrice PEYRAT).  
+
 Nous remercions les accompagnateurs de ce séjour (Céline, Éric et Fabrice).
 Enfin un grand remerciement à Hugues MAURAS qui est dans l'ombre de l'organisation de ce séjour et  qui  même  s'il  n'a  pu  accompagner  cette  année  était  avec  nous  souvent  en  demandant  des nouvelles par messages.  
 
+----
 
 
-[Voir la vidéo du séjour](https://1drv.ms/v/c/5fd522795955244c/EV6Otg6GNrVNu6J66MsVajkB9ldOL59DjZX1U44dXDxXHw)  
 
