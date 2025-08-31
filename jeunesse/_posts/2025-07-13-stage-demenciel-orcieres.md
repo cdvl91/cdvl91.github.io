@@ -7,7 +7,7 @@ author: Fabrice LEVOYER
 
 Dates : du 2 juillet au 9 juillet 2025  
 Club : Glob Trot’Air  
-Auteur : Fabrice LEVOYER  
+Auteur : Fabrice P.  
 
 ----
 Voir la video du séjour [ici](https://1drv.ms/v/c/5fd522795955244c/EV6Otg6GNrVNu6J66MsVajkB9ldOL59DjZX1U44dXDxXHw)  
