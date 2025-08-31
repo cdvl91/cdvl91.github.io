@@ -10,7 +10,7 @@ Club : Glob Trot’Air
 Auteur : Fabrice PEYRAT  
 
 ----
-Voir la video du séjour **_[ici](https://1drv.ms/v/c/5fd522795955244c/EV6Otg6GNrVNu6J66MsVajkB9ldOL59DjZX1U44dXDxXHw)_**
+<a href="https://1drv.ms/v/c/5fd522795955244c/EV6Otg6GNrVNu6J66MsVajkB9ldOL59DjZX1U44dXDxXHw" target="_blank">Voir la vidéo</a>
 
 ----
 **I. Le voyage, l'organisation et la vie au camp**
@@ -58,7 +58,3 @@ Un grand remerciement à toutes les personnes qui nous accompagnent pendant l'an
 Nous remercions les accompagnateurs de ce séjour (Céline, Éric et Fabrice).
 Enfin un grand remerciement à Hugues MAURAS qui est dans l'ombre de l'organisation de ce séjour et  qui  même  s'il  n'a  pu  accompagner  cette  année  était  avec  nous  souvent  en  demandant  des nouvelles par messages.  
 
-----
-
-
-<a href="https://1drv.ms/v/c/5fd522795955244c/EV6Otg6GNrVNu6J66MsVajkB9ldOL59DjZX1U44dXDxXHw" target="_blank">La vidéo</a>
