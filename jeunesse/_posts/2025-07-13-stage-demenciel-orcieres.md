@@ -58,3 +58,10 @@ Un grand remerciement à toutes les personnes qui nous accompagnent pendant l'an
 Nous remercions les accompagnateurs de ce séjour (Céline, Éric et Fabrice).
 Enfin un grand remerciement à Hugues MAURAS qui est dans l'ombre de l'organisation de ce séjour et  qui  même  s'il  n'a  pu  accompagner  cette  année  était  avec  nous  souvent  en  demandant  des nouvelles par message.  
 
+____
+
+[![]({{ site.static }}/jeunesse/20250707-WA0856.jpg)]({{ site.static }}/jeunesse/20250709-WA0018.jpg)
+
+[![]({{ site.static }}/jeunesse/20250707-WA0086.jpg)]({{ site.static }}/jeunesse/20250709-WA0018.jpg)
+
+[![]({{ site.static }}/jeunesse/20250709-WA0018.jpg)]({{ site.static }}/jeunesse/20250709-WA0018.jpg)
