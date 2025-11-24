@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week-end intreclub treuil les 27 et 28 Septembre à Méréville
+title: Week-end interclub treuil des 27 et 28 Septembre 2025 à Méréville
 date: '2025-11-24T21:00:00.000+02:00'
 author: Alain ROBIN
 ---
