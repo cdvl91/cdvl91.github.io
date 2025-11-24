@@ -5,7 +5,7 @@ date: '2025-11-24T21:00:00.000+02:00'
 author: Fred BEVILLE
 ---
 
-** Compte rendu du WE **
+**Compte rendu du WE**
 
 Le rendez-vous était donné le we du 27 et 28 septembre 2025. La météo du samedi étant peu propice à notre activité, la journée a été annulée.
 
