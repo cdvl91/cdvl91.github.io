@@ -11,7 +11,7 @@ Le rendez-vous était donné le we du 27 et 28 septembre 2025. La météo du sam
 
 Les conditions du dimanche se sont révélées plutôt bien et nous avons accueilli les pilotes pour les tous premiers vols. Ceux du début de journée ont démarré doucement, puis se sont accélérés et enchainés sans relâche jusqu’à la fin d’après-midi, sous un ciel relativement ensoleillé. 
 
-**Quelques chiffres
+**Quelques chiffres :**
 Nombre de vols réalisés Dimanche 28 Septembre :
 
 •	21 vols solos
