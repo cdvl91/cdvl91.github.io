@@ -3,6 +3,7 @@ layout: post
 title: Compte rendu stage jeunes Parapente Clecy 2026
 date: ’2026-05-13T20:00:00.000+02:00’
 author: Sophie SUZANNE
+thumbnail: /jeunesse/Clecy2026.png
 ---
 
 **“Les élèves prennent leur envol”**
